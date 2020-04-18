@@ -1,0 +1,11 @@
+ 2020-04-15 10:19:22,267 --ERROR-- AssertUtil  code error, code is 200, but the expected code is 201
+ 2020-04-15 10:22:08,876 --ERROR-- AssertUtil  code error, code is 200, but the expected code is 201
+ 2020-04-15 10:22:19,203 --INFO-- AssertUtil  validating response code, validation successful
+ 2020-04-15 17:08:36,596 --ERROR-- ExcelReader  在读取Excel文件时未找到文件，请检查路径!!!
+ 2020-04-15 17:09:42,927 --ERROR-- ExcelReader  创建sheet只有索引(int)和名字(str)两种类型，读取到 <class 'str'> 类型， 请确认类型!!
+ 2020-04-15 17:10:01,276 --ERROR-- ExcelReader  创建sheet只有索引(int)和名字(str)两种类型，读取到 <class 'str'> 类型， 请确认类型!!
+ 2020-04-15 17:10:15,168 --ERROR-- ExcelReader  创建sheet只有索引(int)和名字(str)两种类型，读取到 美多商城接口测试 类型， 请确认类型!!
+ 2020-04-15 17:11:54,216 --ERROR-- ExcelReader  创建sheet只有索引(int)和名字(str)两种类型，读取到 美多商城接口测试 类型， 请确认类型!!
+ 2020-04-15 17:12:18,411 --ERROR-- ExcelReader  创建sheet只有索引(int)和名字(str)两种类型，请确认类型!!
+ 2020-04-15 18:14:01,279 --ERROR-- ExcelReader  在读取Excel文件时未找到文件，请检查路径!!!
+ 2020-04-15 18:14:59,392 --ERROR-- ExcelReader  在读取Excel文件时未找到文件，请检查路径!!!

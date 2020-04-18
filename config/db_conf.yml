@@ -1,0 +1,7 @@
+db_1:
+  db_host: "127.0.0.1"  # ip
+  db_uesr: "root"
+  db_password: "hang"
+  db_name: "root"
+  db_charset: "utf8"
+  db_port: "3306"
